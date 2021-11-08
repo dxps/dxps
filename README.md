@@ -9,7 +9,7 @@
 
 <br/>
 
-<center>
+<div align="center">
 
 |                                                                                                                                                                                      |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -17,7 +17,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dxps&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="My github stats" /> |
 |                                                                                                                                                                                      |
 
-</center>
+</div>
 
 <!--
 **dxps/dxps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
