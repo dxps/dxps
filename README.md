@@ -1,12 +1,15 @@
-###  🙋‍♂️  This is `dxps` area, meaning development experiences.
+####  🙋‍♂️  This is `dxps` area, meaning my development experiences.
 
 <br/>
+A summary about myself, while wearing both solution architect and developer hats:
+<br/><br/>
 
-- Thinking in Rust, Go, and Distributed Systems nowadays.<br/>
-- Big fan of Rust lang, Clean and Event Driven Architectures.<br/>
+- Thinking in Rust, Go, and Distributed Systems nowadays.
+- Big fan of Rust lang, Clean and Event Driven Architectures.
 - Used to love Java and (most of) its ecosystem.
 - Used to implement and deliver trainings on clustering technologies.
 
+And some GitHub stats:
 <br/>
 
 <div align="center">
