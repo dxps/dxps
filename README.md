@@ -4,10 +4,10 @@
 A summary about myself, while wearing both solution architect and developer hats:
 <br/><br/>
 
-- Thinking in V, Go, Rust, and Distributed Systems nowadays.
-- Big fan of V lang, Clean and Event Driven Architectures.
+- Thinking in V, Go, and Rust programming languages, and Distributed Systems setups.
+- Big fan of Clean Architecture and Event Driven Architectures.
 - Used to love Java and (most of) its ecosystem.
-- Used to implement and deliver trainings on (mainly IBM) clustering technologies.
+- Used to implement solutions and deliver trainings on (mainly IBM) HA clustering technologies.
 
 And some GitHub stats:
 <br/>
