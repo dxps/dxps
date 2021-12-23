@@ -4,8 +4,9 @@
 A summary about myself, while wearing both solution architect and developer hats:
 <br/><br/>
 
-- Thinking in V, Go, and Rust programming languages, and Distributed Systems setups.
+- Thinking in Go and Rust programming languages, and Distributed Systems setups.
 - Big fan of Clean Architecture and Event Driven Architectures.
+- Big fan of Flutter.
 - Used to love Java and (most of) its ecosystem.
 - Used to implement solutions and deliver trainings on (mainly IBM) HA clustering technologies.
 
