@@ -1,10 +1,13 @@
-####  🙋‍♂️  This is `dxps` area, meaning my development experiences.
+![image](https://user-images.githubusercontent.com/14140226/148818160-2c02176b-f3e2-40dd-9aac-1c32511a7be6.png)
+
+
+####  🙋‍♂️  This is `dxps` area, meaning my software development experiences.
 
 <br/>
-A summary about myself, while wearing both solution architect and developer hats:
+A summary about myself, while wearing solution architect and developer hats:
 <br/><br/>
 
-- Thinking in Go and Rust programming languages, and Distributed Systems setups.
+- Thinking in Go and Rust programming languages, and Distributed Systems architectures.
 - Big fan of Clean Architecture and Event Driven Architectures.
 - Big fan of Flutter.
 - Used to love Java and (most of) its ecosystem.
