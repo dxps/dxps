@@ -9,7 +9,7 @@ A summary about myself, while wearing solution architect and developer hats:
 
 - Thinking in Go and Rust programming languages, and Distributed Systems architectures.
 - Big fan of Clean Architecture and Event Driven Architectures.
-- Big fan of Flutter.
+- Still evaluating Rust and Zig.
 - Used to love Java and (most of) its ecosystem.
 - Used to implement solutions and deliver trainings on (mainly IBM) HA clustering technologies.
 
