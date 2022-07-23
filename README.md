@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/14140226/148818160-2c02176b-f3e2-40dd-9aac-1c32511a7be6.png)
+![image](https://user-images.githubusercontent.com/14140226/180615188-b9b71a08-4aab-4727-b323-0c5cc81823ad.png)
+
+
 
 
 ####  🙋‍♂️  This is `dxps` area, meaning my software development experiences.
