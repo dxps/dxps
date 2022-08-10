@@ -3,7 +3,7 @@
 
 
 
-####  🙋‍♂️  This is `dxps` area, meaning my software development experiences.
+####  🙋‍♂️  This is my (software) development experiences.
 
 <br/>
 A summary about myself, while wearing solution architect and developer hats:
@@ -12,7 +12,8 @@ A summary about myself, while wearing solution architect and developer hats:
 - Thinking in Go and Rust programming languages, and Distributed Systems architectures.
 - Big fan of Clean Architecture and Event Driven Architectures.
 - Used to love Java and (most of) its ecosystem.
-- Used to implement solutions and deliver trainings on (mainly IBM) HA clustering technologies.
+
+Used to love implementing solutions and deliver trainings on IBM HA clustering solutions and AIX operating system. But that's less about software development, so for further details checkout [my Linkedin](https://www.linkedin.com/in/marius-ileana/) profile.
 
 And some GitHub stats:
 <br/>
