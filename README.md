@@ -13,9 +13,9 @@ A summary about myself, while wearing solution architect and developer hats:
 - Big fan of Clean Architecture and Event Driven Architectures.
 - Used to love Java and (most of) its ecosystem.
 
-Used to love implementing solutions and deliver trainings on IBM HA clustering solutions and AIX operating system. But that's less about software development, so for further details checkout [my Linkedin](https://www.linkedin.com/in/marius-ileana/) profile.
+Used to love implementing solutions and deliver trainings on IBM HA clustering solutions and AIX operating system. But that's less about software development, so for further details checkout my [Linkedin profile](https://www.linkedin.com/in/marius-ileana/).
 
-And some GitHub stats:
+And some GitHub figures:
 <br/>
 
 <div align="center">
