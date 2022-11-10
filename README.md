@@ -1,9 +1,7 @@
-![image](https://user-images.githubusercontent.com/14140226/180615188-b9b71a08-4aab-4727-b323-0c5cc81823ad.png)
+![get creative](creative.png)
 
 
-
-
-####  🙋‍♂️  This is my (software) development experiences.
+#### 🙋‍♂️ Hello world! 😉 This is mainly my (software) development experiences space.
 
 <br/>
 A summary about myself, while wearing solution architect and developer hats:
@@ -13,9 +11,8 @@ A summary about myself, while wearing solution architect and developer hats:
 - Big fan of Clean Architecture and Event Driven Architectures.
 - Used to love Java and (most of) its ecosystem.
 
-Used to love implementing solutions and deliver trainings on IBM HA clustering solutions and AIX operating system. But that's less about software development, so for further details checkout my [Linkedin profile](https://www.linkedin.com/in/marius-ileana/).
+Used to love implementing middleware and high availability solutions and deliver trainings on IBM HA clustering solutions and AIX operating system. But that's less about software development, so for further details checkout my [Linkedin profile](https://www.linkedin.com/in/marius-ileana/).
 
-And some GitHub figures:
 <br/>
 
 <div align="center">
