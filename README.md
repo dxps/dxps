@@ -7,11 +7,11 @@
 A summary about myself, while wearing solution architect and developer hats:
 <br/><br/>
 
-- Thinking in Go and Rust programming languages, and Distributed Systems architectures.
+- Thinking in Rust and Go programming languages, and Distributed Systems architectures.
 - Big fan of Clean Architecture and Event Driven Architectures.
 - Used to love Java and (most of) its ecosystem.
 
-Used to love implementing middleware and high availability solutions and deliver trainings on IBM HA clustering solutions and AIX operating system. But that's less about software development, so for further details checkout my [Linkedin profile](https://www.linkedin.com/in/marius-ileana/).
+Used to love implementing middleware and high availabilable clustering solutions and deliver trainings on IBM products and AIX operating system. For further details, checkout my [Linkedin profile](https://www.linkedin.com/in/marius-ileana/).
 
 <br/>
 
