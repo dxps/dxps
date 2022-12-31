@@ -1,17 +1,18 @@
 ![get creative](creative.png)
 
 
-#### 🙋‍♂️ Hello world! 😉 This is mainly my (software) development experiences space.
+#### Hello world! 🙋‍♂️ This is mainly my software development experiences (dxps) space.
 
 <br/>
 A summary about myself, while wearing solution architect and developer hats:
 <br/><br/>
 
-- Thinking in Rust and Go programming languages, and Distributed Systems architectures.
+- Nowadays, thinking in (and kinda obsessed with) Rust programming language.
+- Still liking Go programming languages, and Distributed Systems as a generic architecture.
 - Big fan of Clean Architecture and Event Driven Architectures.
-- Used to love Java and (most of) its ecosystem.
+- Used to love Java and (most of) its ecosystem. But not anymore.
 
-Used to love implementing middleware and high available clustering solutions and deliver trainings on IBM products and the great AIX operating system. For further details, checkout my [Linkedin profile](https://www.linkedin.com/in/marius-ileana/).
+Had very satisfying results implementing middleware and high available clustering solutions and delivering trainings on IBM products and its great AIX operating system. For further details, checkout my [Linkedin profile](https://www.linkedin.com/in/marius-ileana/).
 
 <br/>
 
