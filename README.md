@@ -8,11 +8,11 @@ A summary about myself, while wearing solution architect and developer hats:
 <br/><br/>
 
 - Nowadays, thinking in (and kinda obsessed with) Rust programming language.
-- Still liking Go programming languages, and Distributed Systems as a generic architecture.
+- Still liking Go programming language, and Distributed Systems as a generic architecture.
 - Big fan of Clean Architecture and Event Driven Architectures.
-- Used to love Java and (most of) its ecosystem. But not anymore.
+- Used to love Java and (most of) its ecosystem. Not anymore.
 
-Had very satisfying results implementing middleware and high available clustering solutions and delivering trainings on IBM products and its great AIX operating system. For further details, checkout my [Linkedin profile](https://www.linkedin.com/in/marius-ileana/).
+I had very satisfying results implementing middleware and high available clustering solutions and delivering trainings on IBM products and its great AIX operating system. For further details, checkout my [Linkedin profile](https://www.linkedin.com/in/marius-ileana/).
 
 <br/>
 
