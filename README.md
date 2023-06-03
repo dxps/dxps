@@ -1,18 +1,12 @@
-![get creative](creative.png)
-
-
-#### Hello world! 🙋‍♂️ This is mainly my software development experiences (dxps) space.
-
-<br/>
 A summary about myself, while wearing solution architect and developer hats:
 <br/><br/>
 
-- Nowadays, thinking in (and kinda obsessed with) Rust programming language.
+- Thinking in (and kinda obsessed with) Rust programming language.
 - Still liking Golang, and Distributed Systems as a generic architecture.
 - Big fan of Clean Architecture and Event Driven Architectures.
 - Used to love Java and (most of) its ecosystem. Not anymore.
 
-I had very satisfying results implementing middleware and high available clustering solutions and delivering trainings on IBM products and its great AIX operating system. For further details, checkout my [Linkedin profile](https://www.linkedin.com/in/marius-ileana/).
+I had very satisfying results implementing middleware and highly available clustering solutions and delivering trainings on IBM products and its great AIX operating system. For further details, checkout my [Linkedin profile](https://www.linkedin.com/in/marius-ileana/).
 
 <br/>
 
