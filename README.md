@@ -1,6 +1,5 @@
 A summary about myself, while wearing solution architect and developer hats:
-<br/><br/>
-
+<br/>
 - Thinking in (and kinda obsessed with) Rust programming language.
 - Still liking Golang, and Distributed Systems as a generic architecture.
 - Big fan of Clean Architecture and Event Driven Architectures.
