@@ -13,7 +13,7 @@ I had very satisfying results implementing middleware and highly available clust
 
 |       |      |
 | ----: | :--- |
-| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dxps&theme=vue-dark&hide_border=true&date_format=M%20j[%2C%20Y]" alt="My GitHub Stats" />  | <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dxps&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="My GitHub Stats" /> |
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dxps&theme=vue-dark&hide_border=true" alt="My GitHub Streak Stats" />  | <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dxps&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="My GitHub Stats" /> |
 
 </div>
 
