@@ -1,7 +1,7 @@
 A summary about myself, while wearing solution architect and developer hats:
 <br/>
+- A Rust enthusiast and coder.
 - Loving Golang, and Distributed Systems.
-- Rust enthusiast.
 - Big fan of Clean and Event Driven Architectures.
 - Used to love Java and (most of) its ecosystem. Not anymore.
 
