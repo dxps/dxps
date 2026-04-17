@@ -13,7 +13,7 @@ I had very satisfying results implementing middleware and highly available clust
 
 |       |      |
 | ----: | :--- |
-| [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=dxps&theme=vue-dark&hide_border=true)](https://git.io/streak-stats) | ![dxps's Stats](https://github-readme-stats.vercel.app/api?username=dxps&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=dxps&theme=vue-dark&hide_border=true)](https://streak-stats.demolab.com) | ![dxps's Stats](https://github-readme-stats.vercel.app/api?username=dxps&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) |
 
 </div>
 
