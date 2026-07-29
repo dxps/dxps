@@ -1,6 +1,8 @@
 A summary about myself, while wearing solution architect and developer hats:
 <br/>
+
 - Big fan of Clean and Event Driven Architectures.
+- Currently, very excited coding using Zig.
 - An enthusiast Rust developer.
 - Loving Golang, and Distributed Systems.
 - Used to love Java and (most of) its ecosystem. Not anymore.
@@ -11,9 +13,9 @@ I had very satisfying results implementing middleware and highly available clust
 
 <div align="center">
 
-|       |      |
-| ----: | :--- |
-| [![GitHub Streak](https://streak-stats.demolab.com?user=dxps&theme=vue-dark&hide_border=true)](https://streak-stats.demolab.com) | ![dxps's Stats](https://github-readme-stats.vercel.app/api?username=dxps&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) |
+|                                                                                                      |                                                                                                   |
+| ---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------ |
+| [![GitHub Streak](./profile/streak.svg)](https://github.com/DenverCoder1/github-readme-streak-stats) | [![dxps's GitHub stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats) |
 
 </div>
 
