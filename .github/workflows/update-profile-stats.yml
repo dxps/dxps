@@ -11,13 +11,20 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-profile-stats
+  cancel-in-progress: false
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out profile repository
+      - name: Check out latest main
         uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Generate GitHub stats
         uses: stats-organization/github-readme-stats-action@v2
@@ -47,4 +54,7 @@ jobs:
           fi
 
           git commit -m "chore: update profile stats"
-          git push
+
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
