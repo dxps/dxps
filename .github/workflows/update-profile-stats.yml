@@ -1,60 +1,61 @@
 name: Update profile stats
 
 on:
-  schedule:
-    - cron: "17 3 * * *"
-  workflow_dispatch:
-  push:
-    paths:
-      - ".github/workflows/update-profile-stats.yml"
+    schedule:
+        - cron: "17 3 * * *"
+          timezone: "Europe/Bucharest"
+    workflow_dispatch:
+    push:
+        paths:
+            - ".github/workflows/update-profile-stats.yml"
 
 permissions:
-  contents: write
+    contents: write
 
 concurrency:
-  group: update-profile-stats
-  cancel-in-progress: false
+    group: update-profile-stats
+    cancel-in-progress: false
 
 jobs:
-  update-stats:
-    runs-on: ubuntu-latest
+    update-stats:
+        runs-on: ubuntu-latest
 
-    steps:
-      - name: Check out latest main
-        uses: actions/checkout@v6
-        with:
-          ref: main
-          fetch-depth: 0
+        steps:
+            - name: Check out latest main
+              uses: actions/checkout@v6
+              with:
+                  ref: main
+                  fetch-depth: 0
 
-      - name: Generate GitHub stats
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=dxps&theme=vue-dark&show_icons=true&hide_border=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+            - name: Generate GitHub stats
+              uses: stats-organization/github-readme-stats-action@v2
+              with:
+                  card: stats
+                  options: username=dxps&theme=vue-dark&show_icons=true&hide_border=true
+                  path: profile/stats.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          options: user=dxps&theme=vue-dark&hide_border=true&disable_animations=true
-          path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+            - name: Generate streak stats
+              uses: DenverCoder1/github-readme-streak-stats@main
+              with:
+                  options: user=dxps&theme=vue-dark&hide_border=true&disable_animations=true
+                  path: profile/streak.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit generated SVG files
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            - name: Commit generated SVG files
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/stats.svg profile/streak.svg
+                  git add profile/stats.svg profile/streak.svg
 
-          if git diff --cached --quiet; then
-            echo "No stats changes"
-            exit 0
-          fi
+                  if git diff --cached --quiet; then
+                    echo "No stats changes"
+                    exit 0
+                  fi
 
-          git commit -m "chore: update profile stats"
+                  git commit -m "chore: update profile stats"
 
-          git fetch origin main
-          git rebase origin/main
-          git push origin HEAD:main
+                  git fetch origin main
+                  git rebase origin/main
+                  git push origin HEAD:main
