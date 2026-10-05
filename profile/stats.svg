@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Marius Ileana&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 181, Total Commits  (last year) : 1133, Total PRs: 81, Total Issues: 338, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 181, Total Commits  (last year) : 1125, Total PRs: 81, Total Issues: 338, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 59.30336307592808;
+        stroke-dashoffset: 59.34397200073776;
       }
     }
   
