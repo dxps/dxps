@@ -2,9 +2,9 @@ A summary about myself, while wearing solution architect and developer hats:
 <br/>
 
 - Big fan of Clean and Event Driven Architectures.
-- Currently, very excited coding using Zig.
-- An enthusiast Rust developer.
-- Loving Golang, and Distributed Systems.
+- Still an enthusiast Rust developer.
+- Excited coding in Zig.
+- Loving Golang, and distributed systems.
 - Used to love Java and (most of) its ecosystem. Not anymore.
 
 I had very satisfying results implementing middleware and highly available clustering solutions, and delivering trainings on some of the IBM products, including its great AIX (UNIX based) operating system. More details can be found on [my Linkedin profile](https://www.linkedin.com/in/marius-ileana/).
