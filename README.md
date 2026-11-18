@@ -2,8 +2,8 @@ A summary about myself, while wearing solution architect and developer hats:
 <br/>
 
 - Big fan of Clean and Event Driven Architectures.
+- Excited coding in Odin.
 - Still an enthusiast Rust developer.
-- Excited coding in Zig.
 - Loving Golang, and distributed systems.
 - Used to love Java and (most of) its ecosystem. Not anymore.
 
